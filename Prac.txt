@@ -7,3 +7,5 @@ This is edited.
 This is edited again.
 
 I am adding additional text.
+
+More text from the More Text branch.
